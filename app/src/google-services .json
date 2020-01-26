@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408335563691",
+    "firebase_url": "https://apexmall-a743e.firebaseio.com",
+    "project_id": "apexmall-a743e",
+    "storage_bucket": "apexmall-a743e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408335563691:android:59f68a6102a2193b5030ee",
+        "android_client_info": {
+          "package_name": "com.apexmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408335563691-b99ne606fpnm22kebpphk7t88m2mni02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apexmall",
+            "certificate_hash": "aaa70a8eec47187ea497c137d61b345a736f085f"
+          }
+        },
+        {
+          "client_id": "408335563691-d45jf2ab0cl8lo0futoqkuqd1a8ntm89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwCLFHEIv7uAmGmL4WOoU0irrAiPKTZPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408335563691-d45jf2ab0cl8lo0futoqkuqd1a8ntm89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
